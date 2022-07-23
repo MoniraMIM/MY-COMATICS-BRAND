@@ -1,0 +1,28 @@
+h1{
+    font-size: 200px;
+    background-image: url(cosmetic-beauty-logo-design-vector-28158271.jpg);
+    margin: 0px;
+    }
+    .first-pic{
+        width: 445px;
+        box-shadow: 10px 20px 30px rgb(87, 70, 73);
+
+    }
+    .buy{
+        font-size: 30px;
+         background-color: rgb(138, 126, 145);
+         border-radius: 5px;
+         text-decoration: none;
+    }
+    section{
+        display: flex;
+         background-image: url(img_lights.jpg);
+         background-attachment: fixed;
+    }
+    footer{
+        background-color: rgb(111, 189, 33);
+        text-align: center;
+        text-decoration: rgb(235, 235, 174);
+    }
+
+    
